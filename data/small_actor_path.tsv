@@ -1,0 +1,8 @@
+(actor)--[movie#@year]-->(actor)--...
+(Robert Downey Jr.)--[Spider-Man: Homecoming#@2017]-->(Tom Holland)
+(Kevin Bacon)--[X-Men: First Class#@2011]-->(James McAvoy)
+(Kevin Bacon)--[X-Men: First Class#@2011]-->(James McAvoy)--[Glass#@2019]-->(Samuel L. Jackson)
+(Kevin Bacon)--[X-Men: First Class#@2011]-->(Michael Fassbender)--[Alien: Covenant#@2017]-->(Katherine Waterston)
+(Kevin Bacon)--[X-Men: First Class#@2011]-->(James McAvoy)--[Glass#@2019]-->(Samuel L. Jackson)--[Avengers: Endgame#@2019]-->(Robert Downey Jr.)
+(Kevin Bacon)--[X-Men: First Class#@2011]-->(Michael Fassbender)--[Alien: Covenant#@2017]-->(Katherine Waterston)--[The Current War#@2017]-->(Tom Holland)
+(Samuel L. Jackson)--[Avengers: Endgame#@2019]-->(Tom Holland)

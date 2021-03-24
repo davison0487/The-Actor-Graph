@@ -1,0 +1,8 @@
+(actor)--[movie#@year]-->(actor)--...
+(Nicole Kidman)--[Untitled Roger Ailes Project#@2019]-->(Alice Eve)--[Replicas#@2018]-->(Keanu Reeves)
+(Tim Roth)--[Reservoir Dogs#@1992]-->(Michael Madsen)--[Tooth and Nail#@2007]-->(Vinnie Jones)
+(Will Smith)--[Men in Black#@1997]-->(Vincent D'Onofrio)--[Death Wish#@2018]-->(Bruce Willis)
+(Christopher Walken)--[Around the Bend#@2004]-->(Josh Lucas)--[An Unfinished Life#@2005]-->(Morgan Freeman)
+(Courteney Cox)--[3000 Miles to Graceland#@2001]-->(Christian Slater)--[Dawn Rider#@2012]-->(Jill Hennessy)--[If I Had Wings#@2013]-->(Richard Harmon)
+(Cameron Diaz)--[Charlie's Angels#@2000]-->(Lucy Liu)--[Code Name: The Cleaner#@2007]-->(Mark Dacascos)--[Boogie Boy#@1998]-->(Emily Lloyd)
+(Kyra Sedgwick)--[Big Sky#@2015]-->(Frank Grillo)
